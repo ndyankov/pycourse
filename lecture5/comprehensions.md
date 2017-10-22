@@ -63,3 +63,11 @@ inverted = {v:k for (k, v) in {2:3, 4:5}.items()}
 ### Генератори
 При замяна на квадратните скоби ```[]``` с кръгли ```()``` в кой-да е list comprehension (само от тип list!) получаваме обект 
 от тип генератор.
+
+
+### Ресурси
+https://www.python.org/dev/peps/pep-0202/
+
+http://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
+
+http://rosettacode.org/wiki/List_comprehensions#Python

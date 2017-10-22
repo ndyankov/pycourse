@@ -129,3 +129,9 @@ class integers(object):
     def next(self):
         return self.__next__()
 ```
+
+
+### Ресурси
+https://www.python.org/dev/peps/pep-3114/
+
+http://anandology.com/python-practice-book/iterators.html#generators
